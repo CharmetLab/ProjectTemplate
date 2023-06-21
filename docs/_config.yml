@@ -4,7 +4,7 @@ author: World Bank
 logo: docs/images/logo.png
 only_build_toc_files: true
 
-repository:
+repository: ProjectTemplate
   url: https://github.com/worldbank/template
   branch: main
 
